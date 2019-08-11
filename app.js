@@ -1,5 +1,5 @@
 const disttrixs=require('@karthikeyan_mean/disttrixs100');
-  disttrixs.inviteUsersWithin100kms('Customers _Assignment_Coding Challenge (Upto 6 Years) (2).txt',(err,result)=>
+  disttrixs.inviteUsersWithin100kms('Customers _Assignment_Coding Challenge (Upto 6 Years) (2).txt',(err,testresult)=>
   {
-    console.log(result);
+    console.log(testresult);
   });
